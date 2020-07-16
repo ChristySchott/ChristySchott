@@ -1,22 +1,8 @@
-<!--
-**ChristySchott/ChristySchott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"><img src="https://github.com/arielff3/arielff3/blob/master/.github/react.gif?raw=true" alt="react" width="150px" /> 
+<img src="https://github.com/arielff3/arielff3/blob/master/.github/dev2.gif?raw=true" alt="dev2" width="150px" />
+<img src="https://github.com/arielff3/arielff3/blob/master/.github/dev.gif?raw=true" alt="dev" width="150px" /></h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" width="400" height="400" src="https://www.phpro.be/uploads/media/sulu-400x400/00/440-react%404x.png?v=2-0?abf59f88917accbd71f4d4d9aa607c9e">
-
-
-# Hi, I'm Christy :grin: :coffee:
+<h1 align="center"> Hi, I'm Christy :grin: :coffee: </h1>
 
 ### Intern Web Developer :briefcase:
 
