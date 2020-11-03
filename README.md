@@ -2,13 +2,11 @@
 
 <h1 align="center"> Hi, I'm Christy :grin: :coffee: </h1>
 
-### Intern Web Developer :briefcase:
+### Frontend Developer :briefcase:
 
 ✔️ React, Redux
 
 ✔️ TypeScript
-
-✔️ React Native
 
 ✔️ Node
 
