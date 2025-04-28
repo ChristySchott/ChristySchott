@@ -1,51 +1,46 @@
+# 👨‍💻 About Me
 
+Hi there! I'm **Christy Hauschild Schott**, a Senior Frontend Developer passionate about building scalable, high-performance web applications and continuously evolving as a full-stack engineer.
 
-<h1 align="center"> Hi, I'm Christy :grin: :coffee: </h1>
+## 🧠 What I do
+- Craft seamless and efficient user experiences using **React**, **Next.js**, **TypeScript**, **GraphQL**, and **Tailwind CSS**.
+- Optimize web applications focusing on **performance metrics** like **LCP**, **CLS**, and **INP** through strategies like **SSR**, **lazy loading**, and **code splitting**.
+- Design clean, modular, and maintainable frontend architectures based on best practices like **Clean Code**, **SOLID**, and **KISS** principles.
+- Implement robust testing strategies with **Jest**, **React Testing Library**, and **Cypress**, integrated into **CI/CD pipelines**.
+- Collaborate closely with cross-functional teams (Product, Design, QA) in agile environments, driving both technical excellence and business impact.
 
-### Frontend Developer :briefcase:
+## 🔥 What I'm focusing on now
+- Expanding backend skills with **Node.js**, **NestJS**, **Express.js**, **PostgreSQL**, and **Firebase**.
+- Building full-stack applications and deepening understanding of backend architecture, APIs, database design, and authentication strategies.
+- Improving cloud deployment and DevOps practices with **Docker**, **AWS (EC2, S3, CloudFront)**, **Vercel**, and **GitHub Actions**.
 
-✔️ React, Redux
+## 🛠️ Technical Skills
 
-✔️ TypeScript
+### Frontend Development
+- React.js | Next.js | TypeScript | JavaScript (ES6+) | Tailwind CSS | HTML5 | CSS3
+- GraphQL (Apollo Client) | RESTful APIs | Microfrontend Architecture
+- UI Performance Optimization | Accessibility (WCAG) | SSR | CSR | SSG
 
-✔️ Node
+### Backend Development
+- Node.js | NestJS | Express.js
+- PostgreSQL | Firebase | REST APIs | GraphQL APIs
+- WebSockets | Authentication (JWT)
 
-### Community
+### Testing & Code Quality
+- Jest | React Testing Library | Cypress
+- Clean Code Principles | E2E Testing | Code Review Culture
 
-I always seek to contribute to the community and spread knowledge. Thinking about it my brother and I created Coday, a blog with tips on the programming area.
+### DevOps & Infrastructure
+- Docker | GitHub Actions | Jenkins | CI/CD Pipelines
+- AWS (EC2, S3, CloudFront) | Vercel | Netlify
 
-#### <a href="https://coday.netlify.app/" target="_blank" style="color:black !important; text-decoration: none;"> <img src="https://coday.netlify.app/static/1ec13f31462098e7d6a4fa51409f1b68/69585/logo-coday.png" /> </a>
+### Soft Skills
+- Strong problem-solving and analytical thinking
+- Effective asynchronous and synchronous communication
+- Team collaboration across cross-functional squads
+- Adaptability in dynamic environments
+- Growth mindset and mentorship approach
 
-### Always studying :books:
-
-✔️ Computer Technician - IFSul &nbsp; & &nbsp; Bootcamp Full Stack - IGTI
-
-✔️ Bootcamp GoStack - Rocketseat
-
-#### and other courses.. :rocket:
-
-## About me 
-
-:book: Reader | :family: Socialize | :👨‍💻: Programming | :clapper: Movies | :bicyclist: Sports
-
-- :earth_americas: I'm from Rio Grande do Sul - Brasil
-- :hamburger: I love to cook
-- :eyes: I'm curious
-
-## Look me up if you want...
-
-👯 collaborate on some project
-
-:speech_balloon: talk
-
-🤓 learn together with me
-
-:punch: help
-
-
-## How to reach me :mailbox_with_no_mail:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christy-hauschild/)](https://www.linkedin.com/in/christy-hauschild/)
-
-:email: : christyhauschild@gmail.com
-
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/christy-hauschild)
+- [Email](mailto:christyhauschild@gmail.com)
