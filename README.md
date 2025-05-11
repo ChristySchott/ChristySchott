@@ -10,7 +10,7 @@ Hi there! I'm **Christy Hauschild Schott**, a Senior Frontend Developer passiona
 - Collaborate closely with cross-functional teams (Product, Design, QA) in agile environments, driving both technical excellence and business impact.
 
 ## 🔥 What I'm focusing on now
-- Expanding backend skills with **Node.js**, **NestJS**, **Express.js**, **PostgreSQL**, and **Firebase**.
+- Expanding backend skills with **Node.js**, **NestJS**, **Express.js**, **Fastify**, **NoSQL**, **PostgreSQL**, **PrismaORM**, and **Firebase**.
 - Building full-stack applications and deepening understanding of backend architecture, APIs, database design, and authentication strategies.
 - Improving cloud deployment and DevOps practices with **Docker**, **AWS (EC2, S3, CloudFront)**, **Vercel**, and **GitHub Actions**.
 
@@ -22,12 +22,12 @@ Hi there! I'm **Christy Hauschild Schott**, a Senior Frontend Developer passiona
 - UI Performance Optimization | Accessibility (WCAG) | SSR | CSR | SSG
 
 ### Backend Development
-- Node.js | NestJS | Express.js
-- PostgreSQL | Firebase | REST APIs | GraphQL APIs
+- Node.js | NestJS | Express.js | Fastify
+- PostgreSQL | Firebase | REST APIs | GraphQL APIs| NoSQL | Prisma ORM | Knex
 - WebSockets | Authentication (JWT)
 
 ### Testing & Code Quality
-- Jest | React Testing Library | Cypress
+- Jest | React Testing Library | Cypress | Vitest
 - Clean Code Principles | E2E Testing | Code Review Culture
 
 ### DevOps & Infrastructure
