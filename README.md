@@ -1,46 +1,84 @@
 # 👨‍💻 About Me
 
-Hi there! I'm **Christy Hauschild Schott**, a Senior Frontend Developer passionate about building scalable, high-performance web applications and continuously evolving as a full-stack engineer.
+I'm **Christy Hauschild Schott**, a **Senior Frontend Engineer** who transforms code into measurable business outcomes. I specialize in building high-performance, scalable web applications with a relentless focus on user experience and technical excellence.
 
-## 🧠 What I do
-- Craft seamless and efficient user experiences using **React**, **Next.js**, **TypeScript**, **GraphQL**, and **Tailwind CSS**.
-- Optimize web applications focusing on **performance metrics** like **LCP**, **CLS**, and **INP** through strategies like **SSR**, **lazy loading**, and **code splitting**.
-- Design clean, modular, and maintainable frontend architectures based on best practices like **Clean Code**, **SOLID**, and **KISS** principles.
-- Implement robust testing strategies with **Jest**, **React Testing Library**, and **Cypress**, integrated into **CI/CD pipelines**.
-- Collaborate closely with cross-functional teams (Product, Design, QA) in agile environments, driving both technical excellence and business impact.
+## 🚀 Impact & Achievements
 
-## 🔥 What I'm focusing on now
-- Expanding backend skills with **Node.js**, **NestJS**, **Express.js**, **Fastify**, **NoSQL**, **PostgreSQL**, **PrismaORM**, and **Firebase**.
-- Building full-stack applications and deepening understanding of backend architecture, APIs, database design, and authentication strategies.
-- Improving cloud deployment and DevOps practices with **Docker**, **AWS (EC2, S3, CloudFront)**, **Vercel**, and **GitHub Actions**.
+- **Accelerated time-to-revenue**: Reduced a critical product catalog publishing flow from **4 days to 1 hour**
+- **Performance optimization**: Cut initial page load times by **30%** and removed **100ms from a query executed 6.5M times/week**
+- **Platform modernization**: Led **Next.js 12 → 15** migration across micro-frontend architecture with zero disruption
+- **Legacy transformation**: Drove **Angular → React** migration with incremental, zero-downtime releases
+- **Technical leadership**: Mentor engineers, lead cross-functional squads, and champion accessibility & performance standards
 
-## 🛠️ Technical Skills
+## 🔥 What I Do Best
 
-### Frontend Development
-- React.js | Next.js | TypeScript | JavaScript (ES6+) | Tailwind CSS | HTML5 | CSS3
-- GraphQL (Apollo Client) | RESTful APIs | Microfrontend Architecture
-- UI Performance Optimization | Accessibility (WCAG) | SSR | CSR | SSG
+- Architect and deliver **scalable micro-frontend platforms** using **Module Federation** and **Single SPA**
+- Optimize **Core Web Vitals** (LCP, CLS, INP) through **SSR/SSG**, **code splitting**, **lazy loading**, and **performance monitoring**
+- Build **accessible, responsive UIs** that meet **WCAG standards** and delight users
+- Design **observable systems** with comprehensive logging, error tracking, and analytics
+- Implement **robust testing strategies** (Jest, React Testing Library, Cypress) integrated into **CI/CD pipelines**
+- Collaborate effectively with Product, Design, and Backend teams in agile environments
 
-### Backend Development
-- Node.js | NestJS | Express.js | Fastify
-- PostgreSQL | Firebase | REST APIs | GraphQL APIs| NoSQL | Prisma ORM | Knex
-- WebSockets | Authentication (JWT)
+## 🛠️ Core Technical Stack
 
-### Testing & Code Quality
+### Frontend Architecture & Development
+- **Frameworks and programming languages**: React.js | Next.js 15 | TypeScript | JavaScript (ES6+) | Angular
+- **Styling**: Tailwind CSS | CSS3 | Sass | Styled Components
+- **Micro-frontends**: Module Federation | Single SPA | Modular Architecture
+- **State management**: Zustand | Redux | Context API
+- **Routing**: Next.js App Router | TanStack Router
+- **Data fetching**: GraphQL (Apollo Client) | TanStack Query | RESTful APIs
+
+### Performance & Optimization
+- SSR/SSG/ISR | Code Splitting | Lazy Loading | Bundle Optimization
+- Core Web Vitals (LCP, CLS, INP) | Lighthouse
+- Feature Flags | A/B Testing | Progressive Enhancement
+
+### Internationalization & Real-time
+- **i18n**: next-intl | react-i18next | Internationalization best practices
+- **Real-time Communication**: WebSockets | Service Workers | Push Notifications
+
+### Testing & Quality Assurance
 - Jest | React Testing Library | Cypress | Vitest
-- Clean Code Principles | E2E Testing | Code Review Culture
+- E2E Testing | Integration Testing | Unit Testing
+- Clean Code Principles (SOLID, KISS, DRY)
 
-### DevOps & Infrastructure
-- Docker | GitHub Actions | Jenkins | CI/CD Pipelines
-- AWS (EC2, S3, CloudFront) | Vercel | Netlify
+### DevOps & Cloud Infrastructure
+- **CI/CD**: Docker | GitHub Actions | Jenkins
+- **Cloud**: AWS (EC2, S3, CloudFront, Lambda) | Vercel | Netlify
+- **Monitoring**: Error Tracking | Analytics | Observability
 
-### Soft Skills
-- Strong problem-solving and analytical thinking
-- Effective asynchronous and synchronous communication
-- Team collaboration across cross-functional squads
-- Adaptability in dynamic environments
-- Growth mindset and mentorship approach
+### Backend
+- Node.js | NestJS | GraphQL APIs | Apollo Server
+- PostgreSQL | Prisma ORM | JWT Authentication | RBAC
+
+### Collaboration & Tools
+- Git | Monorepo (Turborepo, Nx) | Webpack | Vite
+- Storybook | Design Systems | Figma
+- Google Analytics | Datadog | Sentry
+
+## 🎯 Current Focus
+
+- Advancing **micro-frontend architectures** at scale
+- Pushing the boundaries of **web performance** and **Core Web Vitals optimization**
+- Building **accessible, inclusive web experiences**
+- Deepening expertise in **AWS cloud services** and **serverless architectures**
+- Exploring cutting-edge frontend technologies and patterns
+
+## 💡 Approach & Values
+
+- **Business-first mindset**: Every technical decision drives measurable outcomes
+- **Performance obsessed**: User experience is non-negotiable
+- **Collaborative leader**: Clear communication, mentorship, and knowledge sharing
+- **Quality advocate**: Robust testing, accessibility, and maintainability are table stakes
+- **Continuous learner**: Always exploring new patterns, tools, and best practices
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/christy-hauschild)
-- [Email](mailto:christyhauschild@gmail.com)
+
+- **LinkedIn**: [linkedin.com/in/christy-hauschild](https://www.linkedin.com/in/christy-hauschild)
+- **Email**: [christyhauschild@gmail.com](mailto:christyhauschild@gmail.com)
+- **Location**: Brazil
+
+---
+
+_"Results-driven Senior Frontend Engineer who turns code into business outcomes."_
